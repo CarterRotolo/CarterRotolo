@@ -15,9 +15,9 @@
 
 ---
 
-## 👋 Hello there!
+## 👋 About me
 
-I'm a **Cybersecurity & Risk Management student at The University of Texas at Dallas**. I like building and hardening enterprise networks for fun. I'm currently building a **SOC and Windows domain inside my Proxmox cluster** so I can learn how to create monitoring rules, manage users, and detect anomalies.
+Hello! I'm a **Cybersecurity & Risk Management student at The University of Texas at Dallas**. I like building and hardening enterprise networks for fun. I'm currently building a **SOC and Windows domain inside my Proxmox cluster** so I can learn how to create monitoring rules, manage users, and detect anomalies.
 
 - 🏁 About to participate in my first cyber conference, **TCDC**
 - 🏠 Running a **Proxmox cluster** with services in Docker and Linux containers, plus a fully working reverse proxy and DNS setup
@@ -45,7 +45,6 @@ I'm a **Cybersecurity & Risk Management student at The University of Texas at Da
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -59,8 +58,8 @@ I'm a **Cybersecurity & Risk Management student at The University of Texas at Da
 
 </div>
 
-<details>
-## 🔐 Security & networking toolbox
+## 🔐 Security & networking toolbox</b></summary>
+<br/>
 
 | Area | What I've worked with |
 | --- | --- |
@@ -68,6 +67,7 @@ I'm a **Cybersecurity & Risk Management student at The University of Texas at Da
 | **Reverse proxy & DNS** | Caddy, Pi-hole |
 | **Windows / AD** | Domain Controllers, Group Policy |
 | **Networking labs** | Packet Tracer |
+
 </details>
 
 ---
