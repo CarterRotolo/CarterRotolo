@@ -60,7 +60,7 @@ I'm a **Cybersecurity & Risk Management student at The University of Texas at Da
 </div>
 
 <details>
-### 🔐 Security & networking toolbox
+## 🔐 Security & networking toolbox
 
 | Area | What I've worked with |
 | --- | --- |
@@ -74,7 +74,6 @@ I'm a **Cybersecurity & Risk Management student at The University of Texas at Da
 
 <!--
 ## 🚀 Featured projects
-Add the homelab project here when it's ready.
 -->
 
 ## 🛡️ Cybersecurity experience
