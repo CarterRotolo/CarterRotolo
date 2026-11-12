@@ -70,11 +70,26 @@ Hello! I'm a **Cybersecurity & Risk Management student at The University of Texa
 
 </details>
 
----
-
-<!--
 ## 🚀 Featured projects
--->
+
+### 🏠 [Homelab / SOC Configs](https://github.com/CarterRotolo/homelab-soc-configs)
+
+Sanitized configuration files for the services running in my Proxmox homelab, with one folder per service. Files range from Docker Compose files to JSON configs. IP addresses, domains, and secrets are replaced with placeholders so they're safe to share.
+
+| Service | What it does |
+| --- | --- |
+| **Caddy** | Reverse proxy that works with Pi-hole DNS |
+| **Jellyfin** | Media server for eBooks and home videos |
+| **Navidrome** | Music streaming server |
+| **Nextcloud** | File sharing, used to upload new media to Jellyfin and Navidrome from the web |
+
+**Coming next:** Security Onion and Elastic rule configuration, Windows Active Directory with GPOs, and a game server hosting service.
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
+![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white)
+![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=flat-square&logo=jellyfin&logoColor=white)
 
 ## 🛡️ Cybersecurity experience
 
